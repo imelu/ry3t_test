@@ -1,0 +1,5 @@
+{
+    "version": "1.1.0",
+    "binary_url": "https://beancan.s3.eu-west-1.amazonaws.com/OTA_Usage_Portenta.ino.OPTA.ota",
+    "deviceID": "test1"
+}
